@@ -1,0 +1,32 @@
+{
+    "category": "Songs",
+    "resultType": "song",
+    "title": "\u30a2\u30a4\u30c9\u30eb",
+    "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "id": "MPREb_6h43ySO9duW"
+    },
+    "feedbackTokens": {
+        "add": null,
+        "remove": null
+    },
+    "videoId": "m9SMT5ipbxk",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:34",
+    "year": null,
+    "artists": [],
+    "duration_seconds": 214,
+    "isExplicit": false,
+    "thumbnails": [
+        {
+            "url": "https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8=w60-h60-l90-rj",
+            "width": 60,
+            "height": 60
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8=w120-h120-l90-rj",
+            "width": 120,
+            "height": 120
+        }
+    ]
+}
